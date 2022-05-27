@@ -16,7 +16,7 @@
 body{
 
     font-size: 15px;
-    background-color:#2E3034;
+    background-color:var(--transparent-white);
     color: white;
     font-family: 'Lexend Deca',
     sans-serif;
